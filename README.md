@@ -9,7 +9,7 @@
  ---
  
  <!--기술스택-->
- <b>Skill </b>
+ <b>Skill</b>
 
 <!--백엔드-->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
