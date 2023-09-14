@@ -9,7 +9,7 @@
  ---
  
  <!--기술스택-->
- <b>Skill</b>
+ ### Skill
 
 <!--백엔드-->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -21,7 +21,13 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-   <br><br>
- <!--공부중 -->
-<b>I'm Studying ..</b> <br><br>
+
+### studying
 <img src="https://img.shields.io/badge/Node%20JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+
+
+
+### Project<br>
+[🐶 댕댕잇 : 반려동물 간식 쇼핑몰](https://github.com/trumpetflor/DangDangEat_Spring) <BR>
+[🏭WMS(창고 관리 시스템)](https://github.com/trumpetflor/MUHAN-WMS_SYSTEM)
+
