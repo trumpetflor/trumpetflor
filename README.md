@@ -39,3 +39,9 @@
 
 </div>
 
+<!--방문자수-->
+<div align=right>
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrumpetflor&count_bg=%23969EF8&title_bg=%236F6E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
