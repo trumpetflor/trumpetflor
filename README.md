@@ -37,13 +37,13 @@
 
 
 
-### Project<br>
+### ⭐Project<br>
 <b>[ 2024 ] - salesforce<br></b>
 [I2Electronices(세일즈포스)](https://github.com/trumpetflor/i2Electronics)
 <br><br>
 <b>[ 2023 ] - web <br></b>
-[🐶 댕댕잇 : 반려동물 간식 쇼핑몰](https://github.com/trumpetflor/DangDangEat_Spring) <BR>
-[🏭WMS(창고 관리 시스템)](https://github.com/trumpetflor/MUHAN-WMS_SYSTEM)
+[🐶 반려동물 간식 쇼핑몰 댕댕잇(Web/Java,Spring)](https://github.com/trumpetflor/DangDangEat_Spring) <BR>
+[🏭창고 관리 시스템 무한상사(Web/Java,Spring)](https://github.com/trumpetflor/MUHAN-WMS_SYSTEM)
 
 </div>
 
